@@ -25,7 +25,8 @@ A pointer is a variable that stores the memory address of another variable. Inst
 ```cpp
 int *ptr;   // pointer to int
 
-# 💾 Memory & Pointers  
+
+###💾Memory & Pointers  
 
 Every variable in C++ is stored at a unique memory address.  
 
